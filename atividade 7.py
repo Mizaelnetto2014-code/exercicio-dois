@@ -1,0 +1,5 @@
+nome=input('digite seu nome completo:')
+idade=input('digite sua idade')
+endereço=input('informe seu endereço')
+profissao=input('informe sua profissao')
+print  (nome , idade ,endereço , profissao)
